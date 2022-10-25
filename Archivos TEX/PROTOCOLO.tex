@@ -1,0 +1,43 @@
+\documentclass[12pt,letterpaper]{article}
+% Paqueteria Necesaria
+\usepackage[utf8]{inputenc}
+\usepackage[english, spanish]{babel}
+\usepackage[round,sort,numbers]{natbib}
+\usepackage[font={small,bf},tableposition=top]{caption}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{xcolor, colortbl}
+\usepackage{lscape}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[left=3cm,right=2cm,top=3cm,bottom=3cm]{geometry}
+\usepackage{setspace}
+\makeatletter
+\renewcommand\@biblabel[1]{#1}
+\makeatother
+% Colores
+\definecolor{blanc}{rgb}{.83,.83,.83}
+% Interlineado y Salto de linea
+\spacing{1.5}
+
+\begin{document}	
+	\begin{titlepage}	
+	\setlength{\parskip}{1.5cm}
+	\include{Portada}
+	\end{titlepage}
+\newpage
+ 	\include{Introduccion}
+
+\bibliographystyle{plain} 
+\bibliography{Bibliografia}
+
+\end{document}
+ 

@@ -1,0 +1,132 @@
+@article{delapena13,
+	author = {{De la Pe{\~n}a}, Mar{\'\i}a Eugenia and Ducci, Jorge and Zamora, Viridiana},
+	journal = {Nota t{\'e}cnica IDB-TN-521},
+	month = jun,
+	pages = {10--20},
+	title = {Tratamiento de aguas residuales en M{\'e}xico},
+	volume = {12},
+	year = {2013}
+}
+
+@booklet{tratGOB,
+	author = {FONATUR-Infraestructura},
+	howpublished = {Disponible en: https://www.gob.mx/fmt/acciones-y-programas/tratamiento-de-aguas-residuales-162692},
+	month = {Junio},
+	note = {Accesado el 16/09/2022},
+	publisher = {Gobierno de M{\'e}xico},
+	title = {Tratamiento de Aguas Residuales},
+	year = {2018}
+}
+
+@book{carreno17,
+	author = {{Lazcano Carre{\~n}o}, C{\'e}sar Augusto},
+	booktitle = {Biotecnolog{\'\i}a ambiental de aguas y aguas residuales},
+	institution = {Universidad Mayor de San Marcos},
+	isbn = {978-958-771-344-2},
+	location = {Bogot{\'a}, Colombia},
+	month = {Julio},
+	note = {pag. 230 -- 290},
+	pages = {231-----290},
+	publisher = {Ecoe Ediciones Ldta.},
+	title = {Biotecnolog{\'\i}a ambiental de aguas y aguas residuales (2{\textordfeminine} Ed.)},
+	year = {2017}
+}
+
+@book{ron,
+	author = {Crites, Ron and Tchobanoglous, George},
+	location = {Bogot{\'a}, Colombia},
+	note = {pag: 25},
+	publisher = {McGraw-Hill},
+	title = {Tratamiento de Aguas Residuales en Peque{\~n}as Poblaciones},
+	year = {2000}
+}
+
+@book{manuel13,
+	author = {{Gil Rodr{\'\i}guez}, Manuel},
+	location = {Madrid, Espa{\~n}a},
+	publisher = {Ibergarceta Publicaciones S.L.},
+	title = {Depuraci{\'o}n de aguas residuales: Modelizaci{\'o}n de precesos de lodos activos (2{\textordfeminine} ed.)},
+	year = {2013}
+}
+
+@book{ashok16,
+	author = {Rathoure, Ashok K. and Dhatwalia, Vinod K.},
+	location = {Hershey, Pensilvania},
+	month = jan,
+	pages = {240--246},
+	publisher = {IGI Global},
+	title = {Toxicity and waste management using bioremediation},
+	year = {2016}
+}
+
+@book{winkler96,
+	author = {Winkler, Michael A.},
+	location = {Ciudad de M{\'e}xico, M{\'e}xico},
+	pages = {116--118},
+	publisher = {Editorial Limusa},
+	title = {Tratamiento biol{\'o}gico de aguas de desecho},
+	year = {1996}
+}
+
+@book{acuiferolag,
+	author = {Conagua},
+	howpublished = {Disponible en: http://sigagis.conagua.gob.mx/gas1/Edos\_Acuiferos\_18/jalisco/DR\_1410.pdf},
+	journal = {Acuiferos de Jalisco},
+	month = aug,
+	note = {Accesado el 20/09/2022},
+	pages = {18 -- 22},
+	publisher = {Subdirecci{\'o}n General T{\'e}cnica},
+	title = {Actualizaci{\'o}n de la Disponibilidad de agua en el acu{\'\i}fero Lagos de Moreno, estado de Jalisco},
+	year = {2020}
+}
+
+@booklet{informeods2021,
+	author = {ONU},
+	howpublished = {Disponible en: http://unstats.un.org/sdgs/report/2021/The-Sustainable-Development-Goals-Report-2021\_Spanish.pdf},
+	institution = {United Nations Statistics Division},
+	month = jul,
+	note = {Accesado el 12/10/2022},
+	pages = {38, 39},
+	title = {Informe de los Objetivos de Desarrollo Sostenible 2021},
+	year = {2021}
+}
+
+@book{msm,
+	author = {Conagua},
+	howpublished = {Disponible en: https://smn.conagua.gob.mx/es/climatologia/monitor-de-sequia/monitor-de-sequia-en-mexico},
+	note = {Accesado el 20/09/2022},
+	publisher = {Sistema Meteorol{\'o}gico Nacional},
+	title = {Monitor de Sequ{\'\i}a en M{\'e}xico (MSM)},
+	year = {2022}
+}
+
+@book{aa2030,
+	author = {Conagua},
+	location = {M{\'e}xico, D. F.},
+	month = mar,
+	pages = {16 -- 22, 46 -- 48},
+	publisher = {SEMARNAT M{\'e}xico},
+	title = {Agenda del Agua 2030},
+	year = {2011}
+}
+
+@techreport{fichalagos,
+	author = {{Comisi{\'o}n Estatal del Agua Jalisco}},
+	institution = {Secretar{\'\i}a General del Estado de Jalisco},
+	location = {Guadalajara, M{\'e}xico},
+	pages = {23 -- 29},
+	title = {Ficha T{\'e}cnica Hidrol{\'o}gica Municipal},
+	year = {2015}
+}
+
+@inbook{martinez2005,
+	author = {{Mart{\'\i}nez D.}, {Sergio A.} and {Rodr{\'\i}guez R.}, {Miriam G.}},
+	chapter = {{Determinaci{\'o}n de los Par{\'a}metros Biocin{\'e}ticos}},
+	institution = {UAM Azcapotzalco},
+	location = {M{\'e}xico D. F.},
+	pages = {124, 125},
+	publisher = {Editorial Revert{\'e}},
+	title = {Tratamiento de Aguas Residuales con MATLAB{\textregistered}},
+	year = {2005}
+}
+
