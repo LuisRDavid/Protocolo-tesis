@@ -26,7 +26,7 @@
 	isbn = {978-958-771-344-2},
 	month = {Julio},
 	note = {pag. 230 -- 290},
-	pages = {231-----290},
+	pages = {231 -- 290},
 	publisher = {Ecoe Ediciones Ldta.},
 	title = {Biotecnolog{\'\i}a ambiental de aguas y aguas residuales (2{\textordfeminine} Ed.)},
 	year = {2017}
@@ -36,6 +36,7 @@
 	address = {Bogot{\'a}, Colombia},
 	author = {Crites, Ron and Tchobanoglous, George},
 	note = {pag: 25},
+	pages = {20},
 	publisher = {McGraw-Hill},
 	title = {Tratamiento de Aguas Residuales en Peque{\~n}as Poblaciones},
 	year = {2000}
@@ -44,6 +45,7 @@
 @inbook{manuel13,
 	address = {Madrid, Espa{\~n}a},
 	author = {{Gil Rodr{\'\i}guez}, Manuel},
+	pages = {3},
 	publisher = {Ibergarceta Publicaciones S.L.},
 	title = {Depuraci{\'o}n de aguas residuales: Modelizaci{\'o}n de precesos de lodos activos (2{\textordfeminine} ed.)},
 	year = {2013}
@@ -129,5 +131,26 @@
 	publisher = {Editorial Revert{\'e}},
 	title = {Tratamiento de Aguas Residuales con MATLAB{\textregistered}},
 	year = {2005}
+}
+
+@article{mendez2004,
+	author = {M{\'e}ndez, Leonor and Miyashiro, Victor and Rojas, Ricardo and Cotrado, Mariela and Carrasco, Nancy},
+	institution = {Universidad Mayor de San Marcos},
+	journal = {Revista Del Instituto de investigaci{\'o}n De La Facultad De Minas, Metal{\'u}rgia y Geograf{\'\i}a},
+	number = {14},
+	pages = {74 -- 83},
+	title = {Tratamiento de Aguas Residuales Mediante Lodos Activados a Escala de Laboratorio},
+	volume = {7},
+	year = {2004}
+}
+
+@booklet{Sis22,
+	author = {{Sistema Nacional de Informaci{\'o}n del Agua (SINA)}},
+	howpublished = {Disponible en: https://agenda2030.mx/ODSind.html?ind=ODS006000250010\&cveind=193\&cveCob=99\&lang=es\#/Indicator},
+	institution = {.},
+	month = sep,
+	note = {Accesado el 12/10/2022},
+	title = {Proporci{\'o}n de aguas residuales tratadas de manera adecuada},
+	year = {2022}
 }
 

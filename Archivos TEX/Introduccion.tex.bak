@@ -166,12 +166,12 @@ El uso de lodos activados de una PTAR en funcionamiento permite la puesta en mar
 \subsection*{Objetivos}
 \subsubsection*{Objetivo General}
 Establecer los parámetros cinéticos de remoción de contaminantes óptimos empleando distintas fuentes de alimentación (aguas sintéticas y aguas crudas) a escala de laboratorio utilizando lodos activados.
-	\begin{itemize}
-		\item[] \textbf{Objetivos particulares}
+\subsubsection*{Objetivos particulares}
+	\begin{itemize}		
 			\begin{itemize}
-				\item[•] Calcular las constantes de crecimiento microbiano de manera experimental de lodos provenientes de una planta de tratamiento en función
-				\item[•] Comparar las diferencias que se generan empleando agua residual de constituyentes conocidos frente a un afluente real.
-				\item[•]	Simular el proceso de remoción de contaminantes utilizando las herramientas presentes en el programa MATLAB® y las constantes que se generan en el proceso.
+				\item	Calcular las constantes de crecimiento microbiano de manera experimental de lodos provenientes de una planta de tratamiento en función
+				\item	Comparar las diferencias que se generan empleando agua residual de constituyentes conocidos frente a un afluente real.
+				\item	Simular el proceso de remoción de contaminantes utilizando las herramientas presentes en el programa MATLAB® y las constantes que se generan en el proceso.
 			\end{itemize}
 	\end{itemize}
 \subsection*{Metodología}
