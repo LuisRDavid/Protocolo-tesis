@@ -1,0 +1,30 @@
+% Estructura del documento
+\begin{titlepage}
+% Titulo superior
+\begin{center}
+	\selectlanguage{english}{
+	{\fontsize{18}{1.5}\selectfont \textbf{UNIVERSIDAD DE GUADALAJARA}}
+	
+	{\fontsize{14}{1.5}\selectfont\textbf{Centro Universitario de Los Lagos}}
+	\vspace{1cm}
+% Parametros para la imagen de portada
+	\begin{figure}[h]
+	\centering
+	\includegraphics[height=3.57cm,width=3cm]{/home/Fdora/Pictures/UdeG.png}
+	\end{figure}
+	\\
+	\vspace{1cm}
+% Titulo inferior
+	{\fontsize{14}{1.5}\selectfont \textbf{"Análisis y Modelado de Parámetros Biocinéticos de Fangos Activos Provenientes de la Planta de Tratamiento de Aguas Municipal de Lagos de Moreno"}}
+	
+	{\fontsize{14}{1.5}\selectfont Protocolo de Tesis para obtener el Título de Ingeniero Bioquímico}
+	
+	{\fontsize{14}{1.5}\selectfont Presenta: \\ \textbf{Luis David Rodríguez Centeno}}
+	
+	{\fontsize{14}{1.5}\selectfont Director de Tesis: \\ \textbf{M. en C. Gabriela Camarillo Martínez}}}
+	
+	\vfill
+% Fecha
+	Lagos de Moreno, Jal. \selectlanguage{spanish}{\today}
+\end{center}
+\end{titlepage}

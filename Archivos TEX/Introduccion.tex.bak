@@ -10,6 +10,7 @@ En México las principales normas que existen en materia de tratamiento y calida
 Podemos definir a las aguas residuales como aquellas que provienen de las actividades del hombre y de los animales, tanto como de las precipitaciones, y que son recolectadas en los sistemas de alcantarillado o vertidas directamente al ambiente \citep{carreno17}.\\
 Los principales ensayos para determinar la carga orgánica de un desagüe son: la demanda bioquímica de oxígeno (DBO) y la demanda química de oxígeno (DQO) \citep{carreno17}.\\
 Podemos dividirlas según su origen en seis clases:
+\begin{small}
 \begin{description}
 \item[\textit{Aguas residuales domésticas}]
 Las aguas residuales domésticas son flujos de agua conformados por la combinación de las excretas eliminadas por la población, que incluye heces y orina; además, contiene desechos de animales domésticos, residuos de lavandería, residuos de industrias caseras. La gente excreta de 100 a 500 g de heces por día y de 1 a 3 L de orina al día, contribuyendo con una DBO$_{5}$ DE 20 a 45 g por día \citep{carreno17}. 
@@ -22,13 +23,14 @@ Se refiere a las escorrentías que provienen de la actividad agrícola y de los 
 \item[\textit{Aguas pluviales}]
 Las aguas provenientes de las lluvias que llegan a las alcantarillas, van a diluir la carga orgánica del desagüe; sin embargo, pueden variar las características del agua como el pH, por otro lado, los caudales del desagüe durante el periodo de lluvias también se incrementan, por lo que es un factor importante que se debe tener en cuenta en los diseños para dichas temporadas \citep{carreno17}.
 \end{description}
+\end{small}
 
 \subsubsection*{Tratamiento de aguas residuales}
 El tratamiento de aguas residuales,es un servicio que consiste en la separación de la carga orgánica que contienen las aguas residuales, eliminando al máximo la cantidad de residuos y contaminantes, siendo algunos de los más importantes los descritos en el Cuadro~\ref{tab:constituyentes} \citep{tratGOB, ron}, de tal forma que reúnan los requisitos de calidad que permiten las normas legales y regulaciones de cada país, con la finalidad de que los estándares de calidad ambiental (\emph{ECA}) permanezcan inalterables en el tiempo, y que la preservación sustentable de los ecosistemas sea posible. Sin embargo, en los países en desarrollo esto no se cumple, por lo que solo un pequeño porcentaje de aguas residuales tienen tratamiento y el resto son vertidas al mar, ríos, suelos, etc., originando riesgos de infecciones gastrointestinales de origen hídrico \citep{carreno17}.\par
 	\begin{table}[!ht]
 	\caption{Principales constituyentes de interés en el tratamiento de aguas residuales}\label{tab:constituyentes}
 	\begin{center}
-		\begin{small}
+		\begin{footnotesize}
 		\begin{tabular}{ | m{5cm} | m{10cm} | }
 		\hline
 		\rowcolor{blanc}
@@ -50,7 +52,7 @@ El tratamiento de aguas residuales,es un servicio que consiste en la separación
 		\hline
 		\end{tabular}
 		{\small{Fuente: Crites y Tchobanoglous (2000)}}
-		\end{small}
+		\end{footnotesize}
 	\end{center}
 	\end{table}
 El problema de cálculo, diseño y operación, empieza a complicarse en el intento de eliminar las sustancias orgánicas putrescibles, ya disueltas, o en forma coloidal por biodegradación, presentando la mayor dificultad en la etapa de tratamiento secundario, donde se logra hacer desaparecer la contaminación de las aguas \citep{delapena13}.\par
@@ -62,7 +64,7 @@ Al reactor biológico llegan las corrientes procedentes de la etapa de tratamien
 		\small{Fuente: Elaboración propia}
 		\label{fig:balance}
 	\end{figure}
-El resto de los sólidos sedimentados se recoge como residuo y se desecha. Para que el proceso de oxidación sea eficaz, los microorganismos deben disponer de los niveles adecuados de nutrientes (nitrógeno y fósforo) para la producción de biomasa~\citep{ashok16}.
+
 	\begin{figure}[h]
 		\centering
 		\includegraphics[height=4cm,width=10cm]{Bacteria_rol.png}
@@ -74,7 +76,7 @@ El resto de los sólidos sedimentados se recoge como residuo y se desecha. Para 
 El tratamiento con lodos activados es un proceso de tratamiento biológico que involucra cultivo en suspensión de microorganismos aeróbicos con el fin de degradar los contaminantes presentes en el afluente. El cultivo se lleva a cabo en condiciones de mezclado tanto por movimiento mecánico, utilizando propelas y difusores; como por el uso de aereadores que permitan la unión de todos los componentes del caldo de cultivo. Una serie de reacciones bioquímicas tienen lugar en los tanques de aireación, en las cuales se degradan los componentes orgánicos para generar nuevos componentes celulares \citep{ashok16}.\par
 	\begin{figure}[h]
 		\centering
-		\includegraphics[scale=0.23]{Floculo.png}
+		\includegraphics[scale=0.2]{Floculo.png}
 		\caption{Modelo de formación de los flocs en lodos activados propuesto por Higgins (1997)}
 		\small{Fuente: Elaboración propia}
 		\label{fig:modfloc}
@@ -166,12 +168,12 @@ El uso de lodos activados de una PTAR en funcionamiento permite la puesta en mar
 \subsection*{Objetivos}
 \subsubsection*{Objetivo General}
 Establecer los parámetros cinéticos de remoción de contaminantes óptimos empleando distintas fuentes de alimentación (aguas sintéticas y aguas crudas) a escala de laboratorio utilizando lodos activados.
-\subsubsection*{Objetivos particulares}
-	\begin{itemize}		
+	\begin{itemize}
+		\item[] \textbf{Objetivos particulares}
 			\begin{itemize}
-				\item	Calcular las constantes de crecimiento microbiano de manera experimental de lodos provenientes de una planta de tratamiento en función
-				\item	Comparar las diferencias que se generan empleando agua residual de constituyentes conocidos frente a un afluente real.
-				\item	Simular el proceso de remoción de contaminantes utilizando las herramientas presentes en el programa MATLAB® y las constantes que se generan en el proceso.
+				\item[•] Calcular las constantes de crecimiento microbiano de manera experimental de lodos provenientes de una planta de tratamiento en función
+				\item[•] Comparar las diferencias que se generan empleando agua residual de constituyentes conocidos frente a un afluente real.
+				\item[•]	Simular el proceso de remoción de contaminantes utilizando las herramientas presentes en el programa MATLAB® y las constantes que se generan en el proceso.
 			\end{itemize}
 	\end{itemize}
 \subsection*{Metodología}
