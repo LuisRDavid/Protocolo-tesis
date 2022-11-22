@@ -61,9 +61,24 @@ C{\'e}sar~Augusto {Lazcano Carre{\~n}o}.
 \bibitem{martinez2005}
 {Sergio A.} {Mart{\'\i}nez D.}, {Miriam G.} {Rodr{\'\i}guez R.}
 \newblock {\em Tratamiento de Aguas Residuales con MATLAB{\textregistered}},
-  {Determinaci{\'o}n de los Par{\'a}metros Biocin{\'e}ticos}, páginas 124,
-  125.
+  {Determinaci{\'o}n de los Par{\'a}metros Biocin{\'e}ticos}, páginas 124 --
+  153.
 \newblock Editorial Revert{\'e}, M{\'e}xico D. F., 2005.
+
+\bibitem{delgadillo}
+Sergio~A. {Mart{\'\i}nez Delgadillo}.
+\newblock {\em Par{\'a}metros de Dise{\~n}o de Sistemas de Tratamiento de Aguas
+  Residuales: M{\'e}todos Experimentales},  Determinaci{\'o}n de los
+  Par{\'a}metros Biocin{\'e}ticos, páginas 41 -- 54.
+\newblock Universidad Aut{\'o}noma Metropolitana, M{\'e}xico, D. F., 1999.
+
+\bibitem{mendez2004}
+Leonor M{\'e}ndez, Victor Miyashiro, Ricardo Rojas, Mariela Cotrado,, Nancy
+  Carrasco.
+\newblock Tratamiento de aguas residuales mediante lodos activados a escala de
+  laboratorio.
+\newblock {\em Revista Del Instituto de investigaci{\'o}n De La Facultad De
+  Minas, Metal{\'u}rgia y Geograf{\'\i}a}, 7(14):74 -- 83, 2004.
 
 \bibitem{informeods2021}
 ONU.

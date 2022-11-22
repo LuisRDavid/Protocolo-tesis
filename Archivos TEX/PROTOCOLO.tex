@@ -23,8 +23,14 @@
 \makeatletter
 \renewcommand\@biblabel[1]{#1}
 \makeatother
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\NAT@test}{\else\NAT@nm}{\else\NAT@nmfmt{\NAT@nm}}{}{}
 % Colores
+\let\NAT@up\itshape
+\makeatother
 \definecolor{blanc}{rgb}{.83,.83,.83}
+\definecolor{fondo}{rgb}{.223,.223,.223}
 % Interlineado y Salto de linea
 \spacing{1.5}
 \hyphenation{ge-ne-rán-do-se}
