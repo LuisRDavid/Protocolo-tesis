@@ -177,12 +177,12 @@ Establecer los parámetros cinéticos de remoción de contaminantes óptimos emp
 			\end{itemize}
 	\end{itemize}
 \subsection*{Metodología}
-La línea de trabajo que seguirá la presente investigación es la siguiente:\par
-Se elaborarán 4 biorreactores idénticos siguiendo las medidas descritas por Martínez (1999) \emph{\citep{delgadillo}}, para posteriormente realizar la determinación de los parámetros biocinéticos.\par
-Una vez terminados los reactores, se procederá a preparar el agua residual sintética utilizando como base el \emph{sustrato sintético Nº2} usado por Méndez \textit{et. al.} (2004) \emph{\citep{mendez2004}}, el cual, al ser de composición conocida, nos facilitara el control de las condiciones de entrada al reactor. El inoculo se obtendrá de la PTAR municipal de Lagos de Moreno, aclimatandolos por un periodo de 6 días para proseguir con la puesta en marcha de los reactores.\par
+La línea de trabajo que seguirá la presente investigación es la siguiente:\\
+Se elaborarán 4 biorreactores idénticos siguiendo las medidas descritas por Martínez (1999) \emph{\citep{delgadillo}}, para posteriormente realizar la determinación de los parámetros biocinéticos.
+Una vez terminados los reactores, se procederá a preparar el agua residual sintética utilizando como base el \emph{sustrato sintético Nº2} usado por Méndez \textit{et. al.} (2004) \emph{\citep{mendez2004}}, a su vez, el inoculo se obtendrá de la PTAR municipal de Lagos de Moreno, aclimatandolos por un periodo de 6 días para proseguir con la puesta en marcha de los reactores.\par
 
-\subsubsection*{Determinación de los parámetros cinéticos}
-Para la obtención de los parámetros cinéticos se pondrán en marcha los 4 reactores, cada uno con diferente caudal de entrada, tal y como lo establece Martínez (1999) \citep{delgadillo} en el \emph{Método Experimental 6}. El tiempo en el que los reactores se mantendrán en funcionamiento es aproximadamente de 2 a 4 semanas hasta que el sistema alcanza el equilibrio, realizando análisis de los constituyentes de acuerdo al Cuadro \ref{tab:muestreo}.\par
+\textbf{Determinación de los parámetros cinéticos}\\
+Para la obtención de los parámetros cinéticos se pondrán en marcha los 4 reactores, cada uno con diferente caudal de entrada, tal y como lo establece Martínez (1999) \citep{delgadillo} en el \emph{Método Experimental 6}. El tiempo en el que los reactores se mantendrán en funcionamiento es aproximadamente de 2 a 4 semanas hasta que el sistema alcanza el equilibrio, realizando análisis de los constituyentes de acuerdo al Cuadro \ref{tab:muestreo}.\\
 	\begin{table}[!h]
 		\begin{center}
 		\caption{Programa de Muestreo}
@@ -211,7 +211,7 @@ Para la obtención de los parámetros cinéticos se pondrán en marcha los 4 rea
 		\end{center}
 	\end{table}
 
-\subsubsection*{Modelado del proceso de lodos activados}
-Una vez alcanzado el equilibrio, se procederá a calcular, por el método gráfico de resolución de ecuaciones, las constantes necesarias para el modelado junto con las 4 ecuaciones de estado del sistema. El modelado se realizará usando el comando \emph{ode45} para la solucion de las ecuaciones de estado con las condiciones de operación
+\textbf{Modelado del proceso de lodos activados}\\
+Una vez alcanzado el equilibrio, se procederá a calcular, por el método gráfico de resolución de ecuaciones, las constantes necesarias para el modelado junto con las 4 ecuaciones de estado del sistema. El modelado se realizará usando el comando \emph{ode45} para la solución de las ecuaciones de estado con las condiciones de operación del reactor, las condiciones iniciales de operación y el periodo de tiempo en el cual se desarrollará el experimento.
 
 \subsection*{Cronograma}
