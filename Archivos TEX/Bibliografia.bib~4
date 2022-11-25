@@ -144,9 +144,10 @@
 	year = {2004}
 }
 
-@misc{Sis22,
+@booklet{Sis22,
 	author = {{Sistema Nacional de Informaci{\'o}n del Agua (SINA)}},
 	howpublished = {Disponible en: https://agenda2030.mx/ODSind.html?ind=ODS006000250010\&cveind=193\&cveCob=99\&lang=es\#/Indicator},
+	institution = {.},
 	month = sep,
 	note = {Accesado el 12/10/2022},
 	title = {Proporci{\'o}n de aguas residuales tratadas de manera adecuada},

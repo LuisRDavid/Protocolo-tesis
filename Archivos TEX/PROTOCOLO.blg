@@ -5,44 +5,44 @@ A level-1 auxiliary file: Portada.aux
 A level-1 auxiliary file: Introduccion.aux
 The style file: plain.bst
 Database file #1: Bibliografia.bib
-You've used 16 entries,
+You've used 14 entries,
             2112 wiz_defined-function locations,
-            619 strings with 7406 characters,
-and the built_in function-call counts, 5089 in all, are:
-= -- 521
-> -- 162
+            607 strings with 7033 characters,
+and the built_in function-call counts, 4511 in all, are:
+= -- 465
+> -- 137
 < -- 9
-+ -- 66
-- -- 50
-* -- 283
-:= -- 815
-add.period$ -- 55
-call.type$ -- 16
-change.case$ -- 64
++ -- 56
+- -- 42
+* -- 244
+:= -- 712
+add.period$ -- 48
+call.type$ -- 14
+change.case$ -- 56
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 240
-empty$ -- 433
-format.name$ -- 50
-if$ -- 1122
+cite$ -- 14
+duplicate$ -- 212
+empty$ -- 387
+format.name$ -- 42
+if$ -- 1005
 int.to.chr$ -- 0
-int.to.str$ -- 16
-missing$ -- 22
-newline$ -- 90
-num.names$ -- 32
-pop$ -- 100
+int.to.str$ -- 14
+missing$ -- 17
+newline$ -- 79
+num.names$ -- 28
+pop$ -- 91
 preamble$ -- 1
-purify$ -- 57
+purify$ -- 49
 quote$ -- 0
-skip$ -- 169
+skip$ -- 156
 stack$ -- 0
-substring$ -- 306
-swap$ -- 74
+substring$ -- 277
+swap$ -- 72
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 44
+type$ -- 40
 warning$ -- 0
-while$ -- 53
-width$ -- 18
-write$ -- 196
+while$ -- 47
+width$ -- 16
+write$ -- 172

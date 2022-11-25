@@ -144,12 +144,22 @@
 	year = {2004}
 }
 
-@misc{Sis22,
+@booklet{Sis22,
 	author = {{Sistema Nacional de Informaci{\'o}n del Agua (SINA)}},
-	howpublished = {Disponible en: https://agenda2030.mx/ODSind.html?ind=ODS006000250010\&cveind=193\&cveCob=99\&lang=es\#/Indicator},
+	howpublished = {Disponible en: https://agenda2030.mx/ODSind.html?ind=ODS006000250010\&cveind=193\&cveCob=99\\ \&lang=es\#/Indicator},
+	institution = {.},
 	month = sep,
 	note = {Accesado el 12/10/2022},
 	title = {Proporci{\'o}n de aguas residuales tratadas de manera adecuada},
 	year = {2022}
 }
 
+@book{ramalho2003,
+	author         = {Ramalho, {Rubens S.}},
+	month          = may,
+	pages		   = {30 -- 32, 34 -- 42, 47 -- 64, 70, 71, 74, }
+	publisher      = {Editorial Revert{\'e}},
+	title          = {Tratamiento de Aguas Residuales},
+	year           = {2003},
+	addres		 = {Barcelona, España}
+}

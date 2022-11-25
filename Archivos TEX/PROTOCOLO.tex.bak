@@ -7,7 +7,7 @@
 \usepackage{url}
 \usepackage{amsmath}
 \usepackage{array}
-\usepackage{xcolor, colortbl}
+\usepackage[usenames,dvipsnames]{xcolor, colortbl}
 \usepackage{lscape}
 \usepackage{amssymb}
 \usepackage{makeidx}
@@ -19,7 +19,6 @@
 \renewcommand*\familydefault{\sfdefault}
 \usepackage[left=3cm,right=2cm,top=3cm,bottom=3cm]{geometry}
 \usepackage{setspace}
-\usepackage{fancyhdr}
 \makeatletter
 \renewcommand\@biblabel[1]{#1}
 \makeatother
@@ -30,10 +29,14 @@
 \let\NAT@up\itshape
 \makeatother
 \definecolor{blanc}{rgb}{.83,.83,.83}
-\definecolor{fondo}{rgb}{.223,.223,.223}
+\definecolor{grn}{RGB}{34,139,34}
+\definecolor{smk}{RGB}{245,245,245}
 % Interlineado y Salto de linea
 \spacing{1.5}
 \hyphenation{ge-ne-rán-do-se}
+\hyphenation{ex-pe-ri-men-ta-les}
+\hyphenation{di-suel-tos}
+\hyphenation{cons-ti-tui-da}
 \begin{document}	
 	\begin{titlepage}	
 	\setlength{\parskip}{1.5cm}
@@ -42,9 +45,6 @@
 	\setcounter{page}{2}
 \newpage
  	\include{Introduccion}
-
-\bibliographystyle{plain} 
-\bibliography{Bibliografia}
 
 \end{document}
  

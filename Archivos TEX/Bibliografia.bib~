@@ -127,7 +127,7 @@
 	author = {{Mart{\'\i}nez D.}, {Sergio A.} and {Rodr{\'\i}guez R.}, {Miriam G.}},
 	chapter = {{Determinaci{\'o}n de los Par{\'a}metros Biocin{\'e}ticos}},
 	institution = {UAM Azcapotzalco},
-	pages = {124, 125},
+	pages = {124 -- 153},
 	publisher = {Editorial Revert{\'e}},
 	title = {Tratamiento de Aguas Residuales con MATLAB{\textregistered}},
 	year = {2005}
@@ -154,12 +154,34 @@
 	year = {2022}
 }
 
-@book{ramalho2003,
-	author         = {Ramalho, {Rubens S.}},
-	month          = may,
-	pages		   = {30 -- 32, 34 -- 42, 47 -- 64, 70, 71, 74, }
-	publisher      = {Editorial Revert{\'e}},
-	title          = {Tratamiento de Aguas Residuales},
-	year           = {2003},
-	addres		 = {Barcelona, España}
+@inbook{martinez2005_2,
+	address = {M{\'e}xico D. F.},
+	author = {{Mart{\'\i}nez D.}, {Sergio A.} and {Rodr{\'\i}guez R.}, {Miriam G.}},
+	chapter = {{Modelaci{\'o}n del proceso de lodos activados}},
+	institution = {UAM Azcapotzalco},
+	pages = {156 -- 187},
+	publisher = {Editorial Revert{\'e}},
+	title = {Tratamiento de Aguas Residuales con MATLAB{\textregistered}},
+	year = {2005}
 }
+
+@inbook{delgadillo,
+	address = {M{\'e}xico, D. F.},
+	author = {{Mart{\'\i}nez Delgadillo}, Sergio A.},
+	chapter = {Determinaci{\'o}n de los Par{\'a}metros Biocin{\'e}ticos},
+	institution = {Unidad Azcapotzalco},
+	pages = {41 -- 54},
+	publisher = {Universidad Aut{\'o}noma Metropolitana},
+	title = {Par{\'a}metros de Dise{\~n}o de Sistemas de Tratamiento de Aguas Residuales: M{\'e}todos Experimentales},
+	year = {1999}
+}
+
+@misc{SINA,
+	author = {{Sistema de Informaci{\'o}n Nacional del Agua (SINA)}},
+	howpublished = {Disponible en: http://sina.conagua.gob.mx/sina/tema.php?tema=plantasTratamiento\&ver=reporte\&o=0\&n=nacional},
+	month = jun,
+	note = {Accesado el 12/11/2022},
+	title = {Principales procesos de tratamiento de aguas residuales municipales},
+	year = {2022}
+}
+

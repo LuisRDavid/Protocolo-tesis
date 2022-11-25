@@ -11,31 +11,12 @@ Conagua.
 \newblock {\em Agenda del Agua 2030}.
 \newblock SEMARNAT M{\'e}xico, M{\'e}xico, D. F., Marzo 2011.
 
-\bibitem{acuiferolag}
-Conagua.
-\newblock {\em Actualizaci{\'o}n de la Disponibilidad de agua en el
-  acu{\'\i}fero Lagos de Moreno, estado de Jalisco}.
-\newblock Subdirecci{\'o}n General T{\'e}cnica, Ciudad de M{\'e}xico,
-  M{\'e}xico, Agosto 2020.
-\newblock Accesado el 20/09/2022.
-
-\bibitem{msm}
-Conagua.
-\newblock {\em Monitor de Sequ{\'\i}a en M{\'e}xico (MSM)}.
-\newblock Sistema Meteorol{\'o}gico Nacional, 2022.
-\newblock Accesado el 20/09/2022.
-
 \bibitem{ron}
 Ron Crites, George Tchobanoglous.
 \newblock {\em Tratamiento de Aguas Residuales en Peque{\~n}as Poblaciones},
   página~20.
 \newblock McGraw-Hill, Bogot{\'a}, Colombia, 2000.
 \newblock pag: 25.
-
-\bibitem{delapena13}
-Mar{\'\i}a~Eugenia {De la Pe{\~n}a}, Jorge Ducci,, Viridiana Zamora.
-\newblock Tratamiento de aguas residuales en m{\'e}xico.
-\newblock {\em Nota t{\'e}cnica IDB-TN-521}, 12:10--20, Junio 2013.
 
 \bibitem{tratGOB}
 FONATUR-Infraestructura.
@@ -93,6 +74,14 @@ Ashok~K. Rathoure, Vinod~K. Dhatwalia.
 \newblock {\em Toxicity and waste management using bioremediation}, páginas
   240--246.
 \newblock IGI Global, Hershey, Pensilvania, Enero 2016.
+
+\bibitem{SINA}
+{Sistema de Informaci{\'o}n Nacional del Agua (SINA)}.
+\newblock Principales procesos de tratamiento de aguas residuales municipales.
+\newblock Disponible en:
+  http://sina.conagua.gob.mx/sina/tema.php?tema=plantasTratamiento\&ver=reporte\\
+  \&o=0\&n=nacional, Junio 2022.
+\newblock Accesado el 12/11/2022.
 
 \bibitem{Sis22}
 {Sistema Nacional de Informaci{\'o}n del Agua (SINA)}.
