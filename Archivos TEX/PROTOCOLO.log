@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.29)  1 DEC 2022 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.29)  1 DEC 2022 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -460,25 +460,18 @@ File: Ecuaciones.png Graphic file (type png)
 <use Ecuaciones.png>
 Package pdftex.def Info: Ecuaciones.png  used on input line 97.
 (pdftex.def)             Requested size: 277.51187pt x 156.10042pt.
+ [5 <./Clasificacion_procesos_aer.png> <./Bacteria_rol.png>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--103
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--103
-
- []
-
-[5 <./Clasificacion_procesos_aer.png> <./Bacteria_rol.png>] [6 <./Estabilizacio
-n_mat_org.png>] [7 <./Ecuaciones.png>] [8] [9]
+[6 <./Estabilizacion_mat_org.png>] [7 <./Ecuaciones.png>] [8] [9]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-) [10]
-<Reactor.png, id=56, 807.015pt x 556.0775pt>
+)
+<Reactor.png, id=53, 807.015pt x 556.0775pt>
 File: Reactor.png Graphic file (type png)
 <use Reactor.png>
 Package pdftex.def Info: Reactor.png  used on input line 157.
@@ -487,7 +480,7 @@ LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
 (Font)              Font shape `TS1/phv/m/sl' tried instead on input line 162.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 182.
- [11 <./Reactor.png>]
+ [10] [11 <./Reactor.png>]
 Overfull \hbox (3.56343pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Ene| 
  []
@@ -608,7 +601,7 @@ ist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
 vetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8
 a.pfb>
-Output written on PROTOCOLO.pdf (15 pages, 921827 bytes).
+Output written on PROTOCOLO.pdf (15 pages, 921797 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream
