@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.29)  24 NOV 2022 23:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.29)  1 DEC 2022 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -279,7 +279,7 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count274
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 40
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 41
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -301,22 +301,22 @@ LaTeX Info: Redefining \% on input line 9.
  (./Introduccion.aux))
 \openout1 = `PROTOCOLO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
@@ -407,141 +407,137 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (3.9404pt too wide) in paragraph at lines 3--6
-\T1/phv/m/n/12 cionamien-to con ca-paci-dad de op-eración de 114.6 L/s, cubrien
--do un 33.8$ $% de saneamien-
- []
-
-[2
+) [1
 
 
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 13.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 14.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 12.
+
+Overfull \hbox (1.37694pt too wide) in paragraph at lines 13--14
+[]\T1/phv/m/n/12 Las aguas resid-uales domés-ti-cas son flu-jos de agua con-
+ []
+
+
+Overfull \hbox (2.13243pt too wide) in paragraph at lines 15--16
+[]\T1/phv/m/n/12 Son aque-l-las prove-nientes tan-to de los eflu-entes domés-
+ []
+
 <Diagrama_de_flujo.png, id=15, 634.89195pt x 216.44865pt>
 File: Diagrama_de_flujo.png Graphic file (type png)
 <use Diagrama_de_flujo.png>
-Package pdftex.def Info: Diagrama_de_flujo.png  used on input line 54.
+Package pdftex.def Info: Diagrama_de_flujo.png  used on input line 52.
 (pdftex.def)             Requested size: 330.1457pt x 112.55394pt.
+[2]
 
-Overfull \hbox (23.54158pt too wide) in paragraph at lines 21--59
-\T1/phv/m/n/12 nar las sus-tan-cias orgáni-cas pu-tresci-bles, ya dis-ueltas, o
- en for-ma coloidal por biodegradación,
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3]
 <Floculo.png, id=21, 1027.84pt x 770.88pt>
 File: Floculo.png Graphic file (type png)
 <use Floculo.png>
-Package pdftex.def Info: Floculo.png  used on input line 63.
+Package pdftex.def Info: Floculo.png  used on input line 61.
 (pdftex.def)             Requested size: 154.16934pt x 115.627pt.
 <Clasificacion_procesos_aer.png, id=22, 1067.99pt x 613.29124pt>
 File: Clasificacion_procesos_aer.png Graphic file (type png)
 <use Clasificacion_procesos_aer.png>
-Package pdftex.def Info: Clasificacion_procesos_aer.png  used on input line 73.
+Package pdftex.def Info: Clasificacion_procesos_aer.png  used on input line 71.
 
 (pdftex.def)             Requested size: 213.59422pt x 122.65607pt.
 <Bacteria_rol.png, id=23, 2571.6075pt x 1447.4075pt>
 File: Bacteria_rol.png Graphic file (type png)
 <use Bacteria_rol.png>
-Package pdftex.def Info: Bacteria_rol.png  used on input line 81.
+Package pdftex.def Info: Bacteria_rol.png  used on input line 79.
 (pdftex.def)             Requested size: 241.83316pt x 99.5841pt.
- [4 <./Diagrama_de_flujo.png>] [5 <./Floculo.png>]
+[3] [4 <./Diagrama_de_flujo.png> <./Floculo.png>]
 <Estabilizacion_mat_org.png, id=33, 1043.9pt x 427.5975pt>
 File: Estabilizacion_mat_org.png Graphic file (type png)
 <use Estabilizacion_mat_org.png>
-Package pdftex.def Info: Estabilizacion_mat_org.png  used on input line 90.
+Package pdftex.def Info: Estabilizacion_mat_org.png  used on input line 88.
 (pdftex.def)             Requested size: 260.97435pt x 106.89911pt.
 <Ecuaciones.png, id=34, 693.792pt x 390.258pt>
 File: Ecuaciones.png Graphic file (type png)
 <use Ecuaciones.png>
-Package pdftex.def Info: Ecuaciones.png  used on input line 99.
+Package pdftex.def Info: Ecuaciones.png  used on input line 97.
 (pdftex.def)             Requested size: 277.51187pt x 156.10042pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--105
+Underfull \hbox (badness 10000) in paragraph at lines 85--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--105
+Underfull \hbox (badness 10000) in paragraph at lines 85--103
 
  []
 
-[6 <./Clasificacion_procesos_aer.png> <./Bacteria_rol.png>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7 <./Estabilizacion_mat_org.png>] [8 <./Ecuaciones.png>] [9]
+[5 <./Clasificacion_procesos_aer.png> <./Bacteria_rol.png>] [6 <./Estabilizacio
+n_mat_org.png>] [7 <./Ecuaciones.png>] [8] [9]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
-38.
+47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 ) [10]
-<Proporcion_aguas_tratadas.png, id=54, 719.68875pt x 349.305pt>
-File: Proporcion_aguas_tratadas.png Graphic file (type png)
-<use Proporcion_aguas_tratadas.png>
-Package pdftex.def Info: Proporcion_aguas_tratadas.png  used on input line 157.
-
-(pdftex.def)             Requested size: 215.9083pt x 104.7923pt.
- [11 <./Proporcion_aguas_tratadas.png>]
+<Reactor.png, id=56, 807.015pt x 556.0775pt>
+File: Reactor.png Graphic file (type png)
+<use Reactor.png>
+Package pdftex.def Info: Reactor.png  used on input line 157.
+(pdftex.def)             Requested size: 242.10637pt x 166.82454pt.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 179.
- [12]
-Overfull \hbox (3.56343pt too wide) in paragraph at lines 219--219
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 162.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 182.
+ [11 <./Reactor.png>]
+Overfull \hbox (3.56343pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Ene| 
  []
 
 
-Overfull \hbox (2.70355pt too wide) in paragraph at lines 219--219
+Overfull \hbox (2.70355pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Feb| 
  []
 
 
-Overfull \hbox (2.99348pt too wide) in paragraph at lines 219--219
+Overfull \hbox (2.99348pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Mar| 
  []
 
 
-Overfull \hbox (1.33345pt too wide) in paragraph at lines 219--219
+Overfull \hbox (1.33345pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Abr| 
  []
 
 
-Overfull \hbox (4.36359pt too wide) in paragraph at lines 219--219
+Overfull \hbox (4.36359pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 May| 
  []
 
 
-Overfull \hbox (1.69356pt too wide) in paragraph at lines 219--219
+Overfull \hbox (1.69356pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Jun| 
  []
 
 
-Overfull \hbox (3.56343pt too wide) in paragraph at lines 219--219
+Overfull \hbox (3.56343pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Ago| 
  []
 
 
-Overfull \hbox (3.56343pt too wide) in paragraph at lines 219--219
+Overfull \hbox (3.56343pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Sep| 
  []
 
 
-Overfull \hbox (1.33342pt too wide) in paragraph at lines 219--219
+Overfull \hbox (1.33342pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Oct| 
  []
 
 
-Overfull \hbox (3.40364pt too wide) in paragraph at lines 219--219
+Overfull \hbox (3.40364pt too wide) in paragraph at lines 223--223
 []|\T1/phv/m/n/10 Nov| 
  []
 
-[13] (./PROTOCOLO.bbl
+[12] (./PROTOCOLO.bbl
 Underfull \hbox (badness 6047) in paragraph at lines 22--28
 []\T1/phv/m/n/12 FONATUR-Infraestructura.  Tratamien-to de aguas resid-uales.  
 Disponible
@@ -553,7 +549,7 @@ Underfull \hbox (badness 5431) in paragraph at lines 22--28
 guas-residuales-
  []
 
-[14]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 65--71
 \T1/phv/m/n/12 http://unstats.un.org/sdgs/report/2021/The-Sustainable-Developme
 nt-Goals-Report-
@@ -583,13 +579,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--93
 :
  []
 
-
-Overfull \hbox (14.51001pt too wide) in paragraph at lines 87--93
-\T1/phv/m/n/12 https://agenda2030.mx/ODSind.html?ind=ODS006000250010&cveind=193
-&cveCob=99 
- []
-
-)) [15] (./PROTOCOLO.aux (./Portada.aux
+)) [14] (./PROTOCOLO.aux (./Portada.aux
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
 LaTeX Info: Redefining \. on input line 5.
@@ -603,26 +593,25 @@ LaTeX Info: Redefining \% on input line 9.
 ### semi simple group (level 1) entered at line 35 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7330 strings out of 480806
- 105111 string characters out of 5905151
- 452475 words of memory out of 6000000
- 24562 multiletter control sequences out of 15000+600000
- 466339 words of font info for 100 fonts, out of 8000000 for 9000
- 18 hyphenation exceptions out of 8191
- 55i,12n,63p,969b,1457s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 7325 strings out of 480806
+ 104897 string characters out of 5905151
+ 452488 words of memory out of 6000000
+ 24555 multiletter control sequences out of 15000+600000
+ 465103 words of font info for 95 fonts, out of 8000000 for 9000
+ 19 hyphenation exceptions out of 8191
+ 55i,12n,63p,1026b,1457s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
-w/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
-uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-
-Output written on PROTOCOLO.pdf (15 pages, 819759 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
+vetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8
+a.pfb>
+Output written on PROTOCOLO.pdf (15 pages, 921827 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

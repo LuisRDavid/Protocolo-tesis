@@ -37,12 +37,12 @@
 \hyphenation{ex-pe-ri-men-ta-les}
 \hyphenation{di-suel-tos}
 \hyphenation{cons-ti-tui-da}
+\hyphenation{bio-de-gra-da-ción}
 \begin{document}	
 	\begin{titlepage}	
 	\setlength{\parskip}{1.5cm}
 	\include{Portada}
 	\end{titlepage}
-	\setcounter{page}{2}
 \newpage
  	\include{Introduccion}
 

@@ -178,7 +178,7 @@
 
 @misc{SINA,
 	author = {{Sistema de Informaci{\'o}n Nacional del Agua (SINA)}},
-	howpublished = {Disponible en: http://sina.conagua.gob.mx/sina/tema.php?tema=plantasTratamiento\&ver=reporte\&o=0\&n=nacional},
+	howpublished = {Disponible en: http://sina.conagua.gob.mx/sina/tema.php?tema=plantasTratamiento\&ver=reporte\\ \&o=0\&n=nacional},
 	month = jun,
 	note = {Accesado el 12/11/2022},
 	title = {Principales procesos de tratamiento de aguas residuales municipales},
